@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a **MERN Full Stack Developer** at Stacklab.in
 
-- 💬 Ask me about **node.js, MongoDB, Javascript**
+- 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, Javascript**
 
 - 📫 How to reach me **rsaiprasad4@gmail.com**
 
