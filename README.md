@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working as a **MERN Full Stack Developer** at Stacklab.in
+- 🌱 I’m currently working as a **MERN Full Stack Developer** at SYMB Technologies
 
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, Javascript**
 
